@@ -12,7 +12,7 @@ def line(array)
   end
   end
 end
-def take_a_number(katz_deli, "{name}")
+def take_a_number(katz_deli, name)
   #katz_deli.each_char { |name| puts  }
 end
 def now_serving
