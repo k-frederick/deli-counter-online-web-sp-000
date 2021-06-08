@@ -6,7 +6,8 @@ def line(array)
   elsif other_deli
     for name in other_deli
     puts "The line is currently:"
-
+  else
+    
 end
 def take_a_number(katz_deli, name)
   katz_deli << name
