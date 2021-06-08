@@ -6,9 +6,9 @@ def line(array)
   elsif other_deli
     for name in other_deli
     puts "The line is currently:"
-  #else another_deli
-    #puts "The line is currently:"
-  #end
+  else another_deli
+    puts "The line is currently:"
+  end
   end
   end
 end
