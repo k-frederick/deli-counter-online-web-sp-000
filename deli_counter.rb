@@ -7,7 +7,7 @@ def line(array)
     for name in other_deli
     puts "The line is currently:"
   else
-  #end
+  end
 end
 def take_a_number(katz_deli, name)
   katz_deli << name
@@ -19,4 +19,4 @@ def now_serving(katz_deli)
  else
    puts "Currently serving #{katz_deli.shift}."
  end
-#end
+end
