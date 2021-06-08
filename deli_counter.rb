@@ -7,7 +7,7 @@ def line(array)
     for name in other_deli
     puts "The line is currently:"
   else
-    
+  end
 end
 def take_a_number(katz_deli, name)
   katz_deli << name
